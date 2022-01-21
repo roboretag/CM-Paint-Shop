@@ -9,3 +9,7 @@ Currently priority goes to Kunos Cars that need to be added to the Kunos.json fi
 
 
 #### If you have any questions feel free to contact us on Telegram by clicking here : [MadMat](https://t.me/MadMat_AC) / [Ilja Jusupov](https://t.me/x4fab).
+
+
+Hi, i read other post of MCP2518FG for STM32 and i need, how you can the proyect. I trie to conect my STM32f446re
+On the post i send: BombaMat, i have a question. I am trie to conect my stm32f446re with the controler can mcp2518fd and i see that you are doing a code. Can you send your project? i cant how to conect . i am programing in c
